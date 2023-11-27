@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/gabriel-caliari-9b2637264/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/gabriel-caliari-9b2637264/" alt="LinkedIn"/></a>
 
-<a href="https://api.whatsapp.com/send?phone=5535998067432&text=Ol%C3%A1%20Styvison,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" title="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=5535998067432&text=Ol%C3%A1%20Gabriel,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" title="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535998067432&text=Ol%C3%A1%20Styvison,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" alt="WhatsApp"/></a>
 
 <a href="https://www.instagram.com/gabriel_caliari_/" title="Instagram">
