@@ -11,7 +11,7 @@
 <h2 align='left'>Meus contatos</h2> 
 <p align="left">
 <a href="mailto:gabrielcaliari15@gmail.com" title="Gmail">
-<img src="https://img.shields.io/badge/-Hotmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrielcaliari15@gmail.com" alt="Gmail"/></a>
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gabrielcaliari15@gmail.com" alt="Gmail"/></a>
 
 <a href="https://www.linkedin.com/in/gabriel-caliari-9b2637264/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/gabriel-caliari-9b2637264/" alt="LinkedIn"/></a>
