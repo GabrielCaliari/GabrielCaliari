@@ -31,7 +31,6 @@
   <img height="48px" width="48px" alt="Icone React-Native" src="https://skillicons.dev/icons?i=react"/>
   <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
   <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
-  <img height="48px" width="48px" alt="Icone Node" src="https://skillicons.dev/icons?i=nodejs"/>
   <img height="48px" width="48px" alt="Icone styled-components" src="https://skillicons.dev/icons?i=styledcomponents"/>
   <img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>
 </div>
