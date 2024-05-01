@@ -5,8 +5,16 @@
 
 ## Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- ⚡ Apaixonado por Esportes, Música e Tecnologia
-- 🎓 Cursando Enganharia Mecânica na Universidade Federal de Lavras e Ciência da Computação pela Estacio
+Olá! Me chamo Gabriel, sou Desenvolvedor com foco na criação de aplicativos móveis.
+Estou sempre buscando aprimorar minhas habilidades e contribuir de forma positiva,
+visando agregar valor e qualidade aos projetos que atuo.
+
+Tenho conhecimento em React Native, JavaScript, TypeScript, React Hooks, APIs, Reducer,
+Async Storage, Git, Github, API e Styled-Components.
+
+Destaco minha habilidade em trabalhar eficazmente em equipe, comunicando de maneira
+clara e resolvendo conflitos de forma construtiva, além de tomar decisões informadas em
+situações complexas.
 
 <h2 align='left'>Meus contatos</h2> 
 <p align="left">
