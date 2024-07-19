@@ -10,7 +10,7 @@ Estou sempre buscando aprimorar minhas habilidades e contribuir de forma positiv
 visando agregar valor e qualidade aos projetos que atuo.
 
 Tenho conhecimento em React Native, JavaScript, TypeScript, React Hooks, APIs, Reducer,
-Async Storage, Git, Github, API e Styled-Components.
+Async Storage, Git, Github e Styled-Components.
 
 Destaco minha habilidade em trabalhar eficazmente em equipe, comunicando de maneira
 clara e resolvendo conflitos de forma construtiva, além de tomar decisões informadas em
