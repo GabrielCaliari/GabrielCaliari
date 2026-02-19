@@ -81,19 +81,12 @@ Os projetos representam:
 - padronizações reutilizáveis
 - integrações reais
 
-Cada repositório prioriza clareza estrutural sobre complexidade desnecessária.
-
 ---
 
 ## Contato
 
-📧 gabrielcaliari15@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/gabriel-caliari-9b2637264/
+📧 gabriel15caliari@hotmail.com 
+💼 LinkedIn: [https://www.linkedin.com/in/gabriel-caliari-9b2637264/](https://www.linkedin.com/in/gabrielcaliaridev/)
 
 ---
 
-## Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCaliari&layout=compact)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
