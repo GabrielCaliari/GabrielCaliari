@@ -1,6 +1,6 @@
-<img src="./lineBar.png" width="100%" height="8px"/>
 
-<h1>Gabriel Caliari</h1>
+
+<h1>Desenvolvedor Gabriel Caliari</h1>
 
 Desenvolvedor Frontend & Mobile focado em aplicações reais em produção.
 
